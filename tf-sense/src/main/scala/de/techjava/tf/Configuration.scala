@@ -38,5 +38,4 @@ object Configuration {
     // Simon Sprünker Sensorik
     "kCg" -> "Relais",
     "hK1" -> "Abstand")
-
 }
