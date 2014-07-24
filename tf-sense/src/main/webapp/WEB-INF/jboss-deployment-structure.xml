@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jboss-deployment-structure xmlns="urn:jboss:deployment-structure:1.2">
+  <deployment>
+  	<dependencies>
+  		<module name="org.scala" slot="2.11" />
+  		<module name="org.slf4j" />
+  		<module name="com.tinkerforge" />
+  		<module name="com.typesafe.scala-logging.slf4j-211" slot="2.1.2" />
+  		<module name="com.typesafe.scala-logging.api-211" slot="2.1.2" />
+  	</dependencies>
+  </deployment>
+</jboss-deployment-structure>
