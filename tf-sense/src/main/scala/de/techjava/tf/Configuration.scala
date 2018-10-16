@@ -1,7 +1,6 @@
 package de.techjava.tf
 
 import com.tinkerforge.IPConnection
-import org.jboss.arquillian.core.api.annotation.Inject
 import scala.annotation.meta.field
 import de.techjava.tf.connection.IpConnectionFactory
 
